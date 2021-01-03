@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Sipeta App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_title_analisa">Analisa</string>
+    <string name="label_title_tersimpan">Tersimpan</string>
+    <string name="label_title_panduan">Panduan</string>
 </resources>
